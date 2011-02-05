@@ -162,11 +162,12 @@ ul {
 }
 
 #maincontent {
-	float: left;
-	width: 620px;
+/*  float: left;*/
+/*  width: 620px;*/
 }
 
 #sidebar {
+  display:none;
 	float: right;
 	width: 185px;
 	padding: 5px 0 0 0;
