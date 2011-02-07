@@ -4,8 +4,8 @@ title: Getting Started
 header_image: red_blocks
 ---
 
-h2. Get Started
+h2. Build your own Awesome
 
-Etiam vehicula, augue eu ultricies dictum, orci nisi suscipit sem, nec sollicitudin neque est ac massa. Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat. Nulla lobortis bibendum magna. Nulla adipiscing justo eu erat.
+Enough reading!  Get out there and build your own Awesome.  This page will soon host articles about how to get started doing X on your own as quickly as possible.
 
-Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat.
+I'll be starting with the tools I used to build this website.

@@ -6,6 +6,17 @@ header_image: sunlight
 
 h2. Philosophy of Build Something Awesome
 
-Etiam vehicula, augue eu ultricies dictum, orci nisi suscipit sem, nec sollicitudin neque est ac massa. Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat. Nulla lobortis bibendum magna. Nulla adipiscing justo eu erat.
+Human beings were meant to create, share ideas and express themselves.
 
-Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat.
+Today we have creative technology all around us.  Computer software, the internet, electronic music and all other forms of digital media are new canvases open to be filled by anyone and everyone who is struck with inspiration.
+
+A problem, however, is that technology has traditionally been...well, technical.  My belief is that new technology need not be complicated, and the mission of Build Something Awesome is to promote simplicity in all creative spaces, especially those that are often considered difficult to break into.
+
+To effect this, I will be doing a series of creative projects with a rough time limit of 2 hours.  I'll report my results: the end product, the tools I used, and thoughts about how the experience could have been made easier for the creator.
+
+I want you to build something awesome.
+
+<hr/>
+<center>
+<div style="width:425px" id="__ss_1123750"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/avh4/wheres-the-play-in-programming" title="Where&#39;s the Play in Programming?">Where&#39;s the Play in Programming?</a></strong><object id="__sse1123750" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=bcsd4-vonderhaar-090309184238-phpapp01&stripped_title=wheres-the-play-in-programming&userName=avh4" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse1123750" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=bcsd4-vonderhaar-090309184238-phpapp01&stripped_title=wheres-the-play-in-programming&userName=avh4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/avh4">Aaron VonderHaar</a>.</div></div>
+</center>
