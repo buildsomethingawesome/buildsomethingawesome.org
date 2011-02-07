@@ -26,14 +26,14 @@ Released   : 29-01-2011
 	<div id="menu">
 		<ul>
 			<li class="first"><a href="{{ site.url }}">Home</a></li>
-			<li><a href="{{ site.url }}/projects">Latest Projects</a></li>
-			<li><a href="{{ site.url }}/philosophy">Philosophy of</a></li>
-			<li><a href="{{ site.url }}/articles">Getting Started</a></li>
+			<li><a href="{{ site.url }}/projects.html">Latest Projects</a></li>
+			<li><a href="{{ site.url }}/philosophy.html">Philosophy of</a></li>
+			<li><a href="{{ site.url }}/articles.html">Getting Started</a></li>
 <!-- 			<li><a href="{{ site.url }}/contact">Contact</a></li> -->
 		</ul>
 	</div>
 </div>
-<div id="headershadow"><img src="images/header-picture.jpg" alt="" width="877" height="150" /></div>
+<div id="headershadow"><img src="{{ site.url }}{{ site.header_images[page.header_image].file }}" alt="" width="877" height="150" /></div>
 <div id="content">
 	<div id="maincontent">
     {{ content }}
@@ -63,7 +63,7 @@ Released   : 29-01-2011
 <div id="footer">
 	<!-- Please leave the link to http://www.100webhosting.com intact -->
 	<p>
-		&copy; 2011 Aaron VonderHaar. Design by <a href="http://www.100webhosting.com/">100 Web Hosting</a>.
+		&copy; 2011 Aaron VonderHaar. Design by <a href="http://www.100webhosting.com/">100 Web Hosting</a>.  Header image from <a href="{{ site.header_images[page.header_image].attribution_link }}">{{ site.header_images[page.header_image].attribution_name }}</a>.
 	</p>
 </div>
 </body>

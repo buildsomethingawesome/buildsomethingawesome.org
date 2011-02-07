@@ -1,2 +1,15 @@
 url: "http://localhost:4000"
 exclude: [ "scripts", "tasks", "Rakefile" ]
+header_images:
+  blackboard:
+    file: "/images/blackboard.jpg"
+    attribution_name: "Orin Zebest"
+    attribution_link: "http://www.flickr.com/photos/orinrobertjohn/4400182929/"
+  red_blocks:
+    file: "/images/red_blocks.jpg"
+    attribution_name: "dpstyles"
+    attribution_link: "http://www.flickr.com/photos/dpstyles/4958201934/"
+  sunlight:
+    file: "/images/sunlight.jpg"
+    attribution_name: "Richard Faulder"
+    attribution_link: "http://www.flickr.com/photos/from1993/4328201641/"
