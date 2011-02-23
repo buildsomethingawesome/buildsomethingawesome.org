@@ -1,0 +1,28 @@
+---
+layout: default
+title: Build Something Awesome
+header_image: blackboard
+---
+
+h2. Building a static website in 2 hours
+
+This first version of this website was built in 2 hours, and below I'll be describing the steps I took to do it.  With the given tools, hopefully you'll be able to build your own website and get it up and running in a short amount of time.  From there, let your creativity run wild!
+
+h3. Starting out
+
+The very first thing I do for a new project is create a folder for it.  I usually create the new folder either on my Desktop, or in my "Dropbox":http://www.dropbox.com folder.  Once I'm no longer actively using a project, I move it from the Desktop to my Documents/Projects folder.
+
+For this project, I created a folder called "Build Something Awesome Website" in my Dropbox folder.
+
+h3. :00 Design Research
+
+My first step was to come up with some ideas for a design I liked.  I started with a search for "best website designs":http://www.google.com/search?q=best+website+designs, and gathered some screenshots of ones I found that I thought matched the feeling I wanted my website to convey.
+
+I created a folder called "Design inspiration" inside of my "Build Something Awesome Website" folder, and saved the screenshots there.  Here are a few I liked from "an article at hongkait.com":http://www.hongkiat.com/blog/11-most-popular-blog-design-styles-with-examples/:
+
+!(image_row)static_website_narfstuff.jpg! !(image_row)static_website_lounge4.jpg! !(image_row)static_website_huwshimi.jpg!
+
+
+h2. Sidebar
+
+* "Textile reference":http://en.wikipedia.org/wiki/Textile_(markup_language)

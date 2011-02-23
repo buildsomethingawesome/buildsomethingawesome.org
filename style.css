@@ -59,6 +59,13 @@ ul {
 	list-style: none;
 }
 
+.image_row {
+  width: 25%;
+  border: 1px solid black;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 2%;
+}
 
 #header {
 	width: 917px;
