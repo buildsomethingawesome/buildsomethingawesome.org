@@ -1,4 +1,6 @@
-
+---
+layout: none
+---
 /*
 Design by Alicia A Jasmine
 http://www.100webhosting.com
@@ -23,6 +25,16 @@ a {
 
 a:hover {
 	text-decoration: none;
+}
+
+a[href^="http://"] {
+  background: url(images/extlink.gif) center left no-repeat;
+  padding-left: 16px;
+}
+
+a[href^="{{ site.url }}"] {
+  background: none;
+  padding-left: 0;
 }
 
 img {
