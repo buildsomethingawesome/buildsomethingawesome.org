@@ -7,15 +7,19 @@ http://www.100webhosting.com
 Released for free under a Creative Commons Attribution 3.0 License
 */
 
-* {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+body {
+	font-family: 'Marcellus', serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Overlock SC', Arial, Helvetica, sans-serif;
 }
 
 body {
 	margin: 10px 0;
 	padding: 0;
 	background: #EFEFEF;
-	font-size: 14px;
+	font-size: 16px;
 	color: #6B6B6B;
 }
 
