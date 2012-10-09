@@ -1,5 +1,5 @@
 exclude: [ "tasks", "Rakefile", "scripts" ]
-google_analytics_id: ~
+google_analytics_id: UA-35411869-1
 url: "http://localhost:4000"
 pygments: true
 header_images:
