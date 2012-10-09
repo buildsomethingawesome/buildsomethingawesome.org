@@ -1,5 +1,6 @@
 
 namespace :demo do
+  desc "Deploy to the staging server"
   task :deploy do
     sh "rm -Rf _site"
     sh "jekyll --url http://demo.avh4.net/bsa"
@@ -8,6 +9,7 @@ namespace :demo do
 end
 
 namespace :prod do
+  desc "Deploy to the production server"
   task :deploy do
     sh "rm -Rf _site"
     sh "jekyll --url http://buildsomethingawesome.org"

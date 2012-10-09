@@ -1,5 +1,6 @@
+exclude: [ "tasks", "Rakefile", "scripts" ]
+google_analytics_id: ~
 url: "http://localhost:4000"
-exclude: [ "scripts", "tasks", "Rakefile" ]
 pygments: true
 header_images:
   blackboard:
