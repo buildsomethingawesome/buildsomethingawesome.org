@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: maximized
 title: Livestream 
 header_image: sunlight
 ---
 
+<div style="float:left">
 <object type="application/x-shockwave-flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=avh4" id="live_embed_player_flash" width="800" height="600" bgcolor="#000000"><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always" /><param name="allowNetworking" value="all" /><param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /><param name="flashvars" value="hostname=www.justin.tv&channel=avh4&auto_play=false&start_volume=25" /></object><a href="http://www.justin.tv/avh4#r=-rid-&amp;s=em" class="trk" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline; text-align:center">Watch live video from avh4 on www.justin.tv</a>
+</div>
 
 <iframe frameborder="0" scrolling="no" id="chat_embed" src="http://www.justin.tv/chat/embed?channel=avh4&amp;default_chat=jtv&amp;popout_chat=true#r=-rid-&amp;s=em"height="500" width="300"></iframe>
