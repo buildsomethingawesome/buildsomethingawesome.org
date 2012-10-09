@@ -8,5 +8,5 @@ staging_url : http://demo.avh4.net/bsa
 # The following are the destinations that rsync will push to when you use 'rake deploy'
 # It will typically be in the form of <server>:<folder>.
 # This MUST end with a trailing '/'
-production_server : yoshi:buildsomethingawesome.org/
-staging_server : yoshi:demo.avh4.net/bsa/
+production_server : ara:buildsomethingawesome.org/
+staging_server : ara:demo.avh4.net/bsa/
