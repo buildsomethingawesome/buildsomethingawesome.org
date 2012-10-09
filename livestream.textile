@@ -3,7 +3,7 @@ layout: maximized
 title: Livestream 
 ---
 
-<h3>Next livestream: Sat, Oct 20th, 10am PDT / 1pm EDT</h3>
+<h2>Next livestream: Sat, Oct 20th, 10am PDT / 1pm EDT</h2>
 <p>We'll be building a basic Java program with graphics.  By the end you'll know enough to be able to start playing around with simple game programming on your own.</p>
 <!-- http://keith-wood.name/countdown.html -->
 

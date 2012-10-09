@@ -11,8 +11,9 @@ body {
 	font-family: 'Marcellus', serif;
 }
 
-h1, h2, h3 {
+strong, b {
   font-family: 'Overlock SC', Arial, Helvetica, sans-serif;
+  color:#4b4b4b;
 }
 
 body {
@@ -26,6 +27,7 @@ body {
 body.maximized {
   margin: 0;
   padding: 10px;
+  font-size: 18px;
 }
 
 a {
@@ -135,6 +137,12 @@ h1.title span a {
 
 #logo h2 a {
 	color: #B4B4B4;
+}
+
+#header .header-float {
+  position: absolute;
+  top: 30px;
+  right: 20px;
 }
 
 /* Menu */

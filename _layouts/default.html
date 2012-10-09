@@ -18,10 +18,12 @@ Released   : 29-01-2011
 {% include header.html %}
 </head>
 <body>
+  {% include facebook_js.html %}
 <div id="header">
 	<div id="logo">
 		<h1 class="title"><span><a href="{{ site.url }}">Build Something Awesome</a></span></h1>
 	</div>
+	<div class="fb-like header-float" data-href="https://www.facebook.com/BuildSomethingAwesome" data-send="true" data-layout="button_count" data-width="300" data-show-faces="true"></div>
 	<div id="topright">&nbsp;</div>
 	{% include menu.html %}
 </div>
