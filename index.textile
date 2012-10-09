@@ -19,7 +19,8 @@ Have you ever finger-painted, noodled around on a guitar, or tried to write a st
 But what about writing a computer program?  **Build Something Awesome** is built around the idea that computer programming should be just as accessible as any other art form.
 
 Admittedly, computer programming today still involves a bit of arcane knowledge, but smoothing over the confusing parts is what Build Something Awesome is all about.  All of the projects on this website are designed to be able to be completed in less than two hours.  So welcome, and I'm looking forward to seeing what you create!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Aaron V.  (<a href="{{ site.url }}/bio.html">read more about me</a>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Aaron V.  
+<!-- (<a href="{{ site.url }}/bio.html">read more about me</a>) -->
 
 {% comment %}
 {% for post in site.posts %}
