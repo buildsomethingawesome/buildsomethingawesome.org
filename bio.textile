@@ -1,0 +1,9 @@
+---
+layout: default
+title: About Aaron 
+header_image: sunlight
+---
+
+I'm a software developer at "Pivotal Labs":http://pivotallabs.com where I work with a lot of different clients on iPhone/iPad and Android mobile apps.
+
+I've also done a lot of volunteer work in education.  In particular, I developed a series of programming workshops for "Wintriss Technical Schools":http://wintrisstech.org to teach Java programming to middle school kids.

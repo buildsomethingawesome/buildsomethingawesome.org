@@ -4,10 +4,16 @@ title: Build Something Awesome
 header_image: blackboard
 ---
 
-h2. Build Something Awesome
+h2. Everyone can be a programmer
 
-h3. Lorem ipsum sed aliquam
+**Build Something Awesome** is built around the idea that computer programming should be accessible to everyone.  Writing computer programs is simply a modern form of creative expression and should be as easy to get started with as finger-painting or playing the guitar.  Admittedly, computer programming today still involves a bit of arcane knowledge, but smoothing over the confusing parts is what Build Something Awesome is all about.  All of the projects on this website are designed to be able to be completed in less than two hours.  So welcome, and I'm looking forward to seeing what you create!  --Aaron V.  (<a href="{{ site.url }}/bio.html">read more about me</a>)
 
-Etiam vehicula, augue eu ultricies dictum, orci nisi suscipit sem, nec sollicitudin neque est ac massa. Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat. Nulla lobortis bibendum magna. Nulla adipiscing justo eu erat.
+{% comment %}
+{% for post in site.posts %}
+<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 
-Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat.
+{{ post.date | date_to_string }} -- 
+<a href="{{ site.url }}{{ post.url }}">read more...</a>
+
+{% endfor %}
+{% endcomment %}
