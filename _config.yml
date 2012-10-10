@@ -98,17 +98,17 @@ google_analytics_tracking_id: UA-35411869-1
 # Facebook Like
 facebook_like: false
 
-
+default_header_image: blackboard
 header_images:
   blackboard:
-    file: "/images/blackboard.jpg"
+    file: "blackboard.jpg"
     attribution_name: "Orin Zebest"
     attribution_link: "http://www.flickr.com/photos/orinrobertjohn/4400182929/"
   red_blocks:
-    file: "/images/red_blocks.jpg"
+    file: "red_blocks.jpg"
     attribution_name: "dpstyles"
     attribution_link: "http://www.flickr.com/photos/dpstyles/4958201934/"
   sunlight:
-    file: "/images/sunlight.jpg"
+    file: "sunlight.jpg"
     attribution_name: "Richard Faulder"
     attribution_link: "http://www.flickr.com/photos/from1993/4328201641/"

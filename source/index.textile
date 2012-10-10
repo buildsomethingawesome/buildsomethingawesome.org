@@ -24,12 +24,13 @@ Admittedly, computer programming today still involves a bit of arcane knowledge,
 <!-- (<a href="{{ site.url }}/bio.html">read more about me</a>) -->
 {% endcomment %}
 
-{% comment %}
-{% for post in site.posts %}
-<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 
-{{ post.date | date_to_string }} -- 
-<a href="{{ site.url }}{{ post.url }}">read more...</a>
-
-{% endfor %}
-{% endcomment %}
+<div class="blog-index">
+  {% assign index = true %}
+  {% for post in site.posts %}
+  {% assign content = post.content %}
+    <article>
+      {% include article.html %}
+    </article>
+  {% endfor %}
+</div>

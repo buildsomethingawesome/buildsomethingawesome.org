@@ -11,7 +11,10 @@
     <div id="topright">&nbsp;</div>
     <div id="menu">{% include navigation.html %}</div>
   </div>
-  <div id="headershadow"><img src="{{ root_url }}{{ site.header_images[page.header_image].file }}" alt="" width="877" height="150" /></div>
+  {% capture header_image %}{% if page.header_image %}{{ page.header_image }}{% else %}{{ site.default_header_image }}{% endif %}{% endcapture %}
+    <div id="headershadow">
+      <img src="{{ root_url }}/images/headers/{{ site.header_images[header_image].file }}" alt="" width="877" height="150" />
+    </div>
   <div id="content">
     <div id="maincontent">
       {{ content | expand_urls: root_url }}

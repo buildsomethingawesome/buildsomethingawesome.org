@@ -30,6 +30,10 @@ body.maximized {
   font-size: 18px;
 }
 
+aside.sidebar {
+  display: none;
+}
+
 a {
 	color: #3467b4;
 }
