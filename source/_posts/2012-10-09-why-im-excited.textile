@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Why I'm excited about this site"
+date: 2012-10-09 22:16
+comments: true
+categories: 
+---
+
+{% comment %}
+For my first blog post, let me explain a bit about why this website is important to me.  It's simple, really:  I'm excited about computer programming, and I'm excited about people being creative.  And it's silly that the world doesn't have more of those two things mixed together.
+
+My first experience with computer programmings was in 2nd grade when my parents bought our first computer.  They bought the computer from a friend of my mom's, and when I went along to pick it up, she showed me how to write a simple computer program.  
+Whenever I saw TV commercials, I used to imagine how they could be written as computer programs.
+
+http://oldcomputers.net/ace1000.html
+
+But I don't want to keep it all to myself.  I love being in an environment where other people are inspiring you with their own ideas.  http://www.zefrank.com
+
+http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107
+
+{% endcomment %}
+
+I want to explain why I'm starting this website.  There are two reasons: a selfish reason and an altruistic one.  Today I'll explain the selfish one.
+
+{% img right /images/posts/2279053282_6a049a0a67_m.jpg Photo by Lenore Edman %} <!-- Photo http://www.flickr.com/photos/lenore-m/2279053282/ --> I'm one of those people who likes to understand how things work.  But I don't just like to know how they work, I want to *see* how things work with my own eyes.  What's always amazed me about digging through something's internals is how working things can be complicated and ugly and at the same time simple and elegant.  There's a conflict between good and evil going on within the design of everyday things.
+
+It's these glimpses of elegant principles battling against messy practicalities that rewards me every time I put in the effort to understand something new.  And when I get an insight, I want to tell the story and let everyone know what greater purpose was pitted against what vile perversion--how long did they fight, and on what grounds--and what can we learn for the benefit of the future?  This is the fabric of our technological culture.  Replacing the stories and myths of the past, today our world is built around understanding, and I love to be immersed in that.
+
+So that's my motivation for putting all this together.  I want to share stories about technology, about computer programs, and about programmers and designers.  Of course, there's an upside for you too, which I'll talk a bit about in my next post.  In the meantime, be sure to mark your calendar for my first livestream broadcast, Saturday, Oct 20th at 10am PDT (1pm EDT).
+
+Cheers!
+--Aaron V.
