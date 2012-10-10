@@ -1,0 +1,18 @@
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+{% include head.html %}
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} class="maximized">
+
+  <h1 class="title"><span><a href="{{ site.url }}">Build Something Awesome</a></span></h1>
+  <div id="menu">{% include navigation.html %}</div>
+
+  <br style="clear: both"/>
+  <div style="min-width: 1200px">
+    {{ content | expand_urls: root_url }}
+  </div>
+
+  <br style="clear: both"/>
+  {% include footer.html %}
+
+  {% include after_footer.html %}
+</body>
+</html>
