@@ -93,6 +93,22 @@ ul {
 	list-style: none;
 }
 
+blockquote {
+  margin: 1.2em;
+  margin-left: 3em;
+  font-style: italic;
+  position: relative;
+  font-size: 1.1em;
+  line-height: 1.5em;
+  padding-left: 2em;
+  border-left: 4px solid #cfcfcf;
+}
+blockquote cite {
+    font-style: italic;
+}
+blockquote cite a { color: #bfbfbf !important; word-wrap: break-word; }
+blockquote cite:before { content: '\2014'; padding-right: .3em; padding-left: .3em;}
+
 .image_row {
   width: 25%;
   border: 1px solid black;
