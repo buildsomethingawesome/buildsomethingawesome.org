@@ -4,7 +4,7 @@ title: Build Something Awesome
 header_image: blackboard
 ---
 
-h2. First Livestream!  Sat, Oct 20th, 10am PDT / 1pm EDT
+h2. First Livestream--Sat, Oct 20th, 10am PDT / 1pm EDT
 
 I'll be doing my first live broadcast on Saturday, Oct 20th, 2012.  Tune in to learn how to write a simple Java program with graphics and animation--enough to get you started creating your own games, or experimenting with computer science.  Guaranteed simple and fun!
 

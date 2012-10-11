@@ -16,6 +16,10 @@ strong, b {
   color:#4b4b4b;
 }
 
+a strong, a b {
+  color: #3467b4; /* should be darker */
+}
+
 body {
 	margin: 10px 0;
 	padding: 0;
