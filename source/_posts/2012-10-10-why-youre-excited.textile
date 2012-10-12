@@ -4,39 +4,45 @@ title: "Why <b>you</b> should be excited about computer programming (and this we
 date: 2012-10-10 21:05
 comments: true
 categories: 
-published: false
 ---
 
-Yesterday I talked about why *I* want you to like my website--but why should *you* want to like it?
+Earlier this week I talked about why *I* want you to like my website--but what's in it for *you*?
 
 <!-- I've started putting together this website as a fun (and yes, educational) resource for people who may never intend to be a professional computer programmer to learn about programming.  I've found there are lots of reasons why people might be interested in programming, and here are a few of the big ones: -->
 
 h3. If you've ever wondered about computer programming
 
-So much of our lives and our culture today depend on computers and the internet that it's natural to be curious about how it all works.  Unfortunately, we as programmers haven't done much to make this easy.  While there are thousands of ways to make computer programs, most are overly complicated (and unnecessarily so, in my opinion).  My goal with this website is to combine my experiences designing computer programs and teaching to create a resource that anyone can sit down to and immediately start to enjoy writing computer programs.
+So much of our lives and our culture today depend on computers and the internet that it's natural to be curious about how it all works.  Unfortunately, there isn't a lot of motivation in the computer software industry to make things easy to understand.  While there are thousands of ways to make computer programs, most are overly complicated (and unnecessarily so, in my opinion).  My goal with this website is to combine my experiences from designing computer programs and from teaching to create a resource that will allow anyone to sit down and immediately start enjoying writing computer programs.
 
+{% comment %}
 <!-- But one of the fascinating things about computing that makes it different from other sorts of technology that we interact with is that "abstraction":http://en.wikipedia.org/wiki/Abstraction -->
 
 <!-- What's great about computing is that new abstractions can be easily created, so it's the perfect topic to learn about because the relevant information can be easily isolated.  This is a teaching technique that I believe hasn't been fully explored, so I intend to develop it here @@. -->
 
-h3. If you want to express yourself more creatively
-
-One of the most compelling reasons to learn about computer programming (and certainly the most fun reason) is that it allows you to give life to your ideas in a ways that's more comprehensive than any other creative medium.
 The reason for this is that the concept of "abstraction":http://en.wikipedia.org/wiki/Abstraction is fundamental to computer programming.  
 (a topic I hope to delve into on this website in the future)
+Computers are capable of simulating any other system, either in whole or in part.
+As an example, suppose you're writing a book about the rise and fall off a civilization. 
+Of course
+{% endcomment %}
 
-In addition to the depth of expression that is possible in computer programming, there is also almost-infinite possibilities for combining programming with other disciplines.  Graphic design, music, creative writing, robotics, photography, and video can all make use of computer programming in generative, analytical, or interactive ways.  In the coming years, "3D printing":http://en.wikipedia.org/wiki/3D_printing will make sculpture and all sorts of crafting more computer-friendly.  And with the growing adoption of smart phones and tablets, creating programs that interact with us in our daily basis becomes increasingly easier.  The possibilities of expression are nearly limitless!
+h3. If you want to express yourself more creatively
+
+One of the most compelling reasons to learn about computer programming (and certainly the most fun reason) is that it allows you to explore creative ideas in much more varied ways than might otherwise be possible.  Graphic design, music, creative writing, robotics, photography, and video can all me generated, analyzed and interacted with using computer programs.  In the coming years, "3D printing":http://en.wikipedia.org/wiki/3D_printing will make sculpture and all sorts of crafting more programmable as well.  And with the growing adoption of smart phones and tablets, creating programs that interact with us in our daily basis becomes increasingly easier.  The possibilities of expression are nearly limitless!
 
 h3. If you want to improve your analytical thinking
 
-Not all pursuits in life require "analytical thinking":http://en.wikipedia.org/wiki/Critical_thinking#Importance, but the things that do (for example, managing your finances) can make a big impact on your life.  
+Not all pursuits in life require "analytical thinking":http://en.wikipedia.org/wiki/Critical_thinking#Importance, but the ones that do (for example, managing your finances) can make a big impact on your life.  Computer programming is the absolute best way to practice analytical thinking, because the problems you solve a completely determined you.  If you like cars, you could write a racing game.  If you like cooking, you could write a recipe book program.  If you like physics, you could write a physics simulation.  If you like visual arts or music, you could write programs that draw graphics or produce sound.  Through computer programming, any topic that interests you can become a way to trick yourself into enjoying practicing your analytical thinking skills (and I hope to show a wide range of examples of this here on my livestream broadcasts).
 
-, but unlike solving word problems, writing computer makes the exercise of critical thinking skills enjoyable, since you get to decide your own problems that you want to solve
-
-I'm not going to guarantee anything here, but by learning a bit about computer programming, you may find an improved ability to 
+<!-- I'm not going to guarantee anything here, but by learning a bit about computer programming, you may find an improved ability to 
 stay calm when dealing with crises, and to 
-have a better awareness of tradeoffs when faced with important decisions in your life.
+have a better awareness of tradeoffs when faced with important decisions in your life. -->
 
+h3. Just to try something new
+
+So whatever your interest in computer programming may be, I hope this website will help make it easy for you to try it out.  If you want to keep in touch, you can "sign up to receive future updates":http://eepurl.com/qngd5, or tune in to my first "livestream":{{ root_url }}/livestream.html on Oct 20th, 2012 at 10am PDT / 1pm EDT.  I look forward to seeing what you'll create!
+
+{% comment %}
 h3. If you want to make a better tomorrow
 
 I can't neglect one of the most vibrant aspects of computer programming: the culture that surrounds it.  Let's refer to The Jargon File, which is a glossary of programmer slang that originated 1975:
@@ -45,5 +51,10 @@ I can't neglect one of the most vibrant aspects of computer programming: the cul
 Hacker Ethic, the n. 1. The belief that information-sharing is a powerful positive good, and that it is an ethical duty of hackers to share their expertise by writing free software and facilitating access to information and to computing resources wherever possible.
 {% endblockquote %}
 
-*information-sharing is a powerful positive good*
+You'll find that ideal that *information-sharing is a a powerful positive good* to be common among computer programmers.
 
+{% blockquote &nbsp; http://quoteinvestigator.com/2011/12/13/swap-ideas/ %}
+If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.
+{% endblockquote %}
+
+{% endcomment %}
