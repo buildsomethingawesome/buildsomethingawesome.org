@@ -12,5 +12,6 @@ title: Livestream
 </div>
 
 <div>
-<iframe frameborder="0" scrolling="no" id="chat_embed" src="http://www.justin.tv/chat/embed?channel=avh4&amp;default_chat=jtv&amp;popout_chat=true#r=-rid-&amp;s=em"height="600" width="300"></iframe>
+  
+<iframe frameborder="0" scrolling="no" id="chat_embed" src="http://twitch.tv/chat/embed?channel=avh4&amp;popout_chat=true"height="600" width="300"></iframe>
 </div>
