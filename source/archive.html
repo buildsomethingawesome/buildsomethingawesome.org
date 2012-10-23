@@ -1,0 +1,17 @@
+---
+layout: page
+title: Video Archives
+footer: false
+---
+
+<div id="blog-archives">
+{% for post in site.posts reverse %}
+{% if post.categories contains "archive" %}
+<article>
+  {% assign index = true %}
+  {% assign content = post.content %}
+  {% include article.html %}
+</article>
+{% endif %}
+{% endfor %}
+</div>

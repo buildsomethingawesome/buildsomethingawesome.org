@@ -3,7 +3,7 @@ layout: post
 title: "Why I'm excited about this site"
 date: 2012-10-09 22:16
 comments: true
-categories: 
+categories: featured
 ---
 
 {% comment %}

@@ -4,11 +4,9 @@ title: Build Something Awesome
 header_image: blackboard
 ---
 
-h2. First Livestream--Sat, Oct 20th, 10am PDT / 1pm EDT
+h2. Next Livestream--Sat, Oct 27th, 10am PDT / 1pm EDT / 5pm GMT
 
-I'll be doing my first live broadcast on Saturday, Oct 20th, 2012!  I'll be starting out by demoing how to write a Java program with graphics and animation.  So come join me to see the thought process behind creating a simple game and to learn how to set up your own simple Java projects to create your own games and experiment with computer science.  Guaranteed simple and fun!
-
-<!-- http://netbeans.org/downloads/ -->
+This week we'll be doing another Java project, this time making a game to scare your friends and family with for Halloween!  I'll also be sure to quickly cover the installation of IntelliJ for those who had trouble last week, and I've worked out the kinks with the chat room sign up, so feel welcome to chime in during the cast.  See you then!
 
 You can <a href="{{ root_url }}/livestream.html">tune in here</a>, or on <a href="http://www.justin.tv/avh4">justin.tv</a>.  And if you'd like a reminder, you can <a href="http://eepurl.com/qngd5">sign up to be notified when the livestream is about to start</a>.
 
@@ -28,9 +26,11 @@ Admittedly, computer programming today still involves a bit of arcane knowledge,
 <div class="blog-index">
   {% assign index = true %}
   {% for post in site.posts %}
-  {% assign content = post.content %}
+  {% if post.categories contains "featured" %}
     <article>
+      {% assign content = post.content %}
       {% include article.html %}
     </article>
+  {% endif %}
   {% endfor %}
 </div>
