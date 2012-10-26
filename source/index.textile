@@ -4,9 +4,9 @@ title: Build Something Awesome
 header_image: blackboard
 ---
 
-h2. Next Livestream--Sat, Oct 27th, 10am PDT / 1pm EDT / 5pm GMT
+h2. Next Livestream--{{ site.next_broadcast.when}}
 
-This week we'll be doing another Java project, this time making a game to scare your friends and family with for Halloween!  I'll also be sure to quickly cover the installation of IntelliJ for those who had trouble last week, and I've worked out the kinks with the chat room sign up, so feel welcome to chime in during the cast.  See you then!
+{{ site.next_broadcast.slug }}
 
 You can <a href="{{ root_url }}/livestream.html">tune in here</a>, or on <a href="http://www.justin.tv/avh4">justin.tv</a>.  And if you'd like a reminder, you can <a href="http://eepurl.com/qngd5">sign up to be notified when the livestream is about to start</a>.
 
