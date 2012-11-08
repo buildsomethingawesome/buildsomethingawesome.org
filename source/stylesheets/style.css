@@ -89,8 +89,8 @@ p, ol, ul, blockquote {
 
 ul {
 	margin-left: 0;
-	padding-left: 0;
-	list-style: none;
+	padding-left: 2em;
+	list-style: disc;
 }
 
 blockquote {
