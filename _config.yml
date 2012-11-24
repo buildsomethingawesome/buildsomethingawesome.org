@@ -1,3 +1,7 @@
+next_broadcast:
+  when: "Sat, Dec 16th, 10am PST / 1pm EST / 6pm UTC"
+  slug: "I'm hoping to do an Android phone programming project for the next episode.  Please send your game ideas and requests to <a href='mailto:aaron@buildsomethingawesome.org'>aaron@buildsomethingawesome.org</a>.  See you then!"
+
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
@@ -112,7 +116,3 @@ header_images:
     file: "sunlight.jpg"
     attribution_name: "Richard Faulder"
     attribution_link: "http://www.flickr.com/photos/from1993/4328201641/"
-
-next_broadcast:
-  when: "Sat, Nov 24th, 10am PST / 1pm EST / 6pm UTC"
-  slug: "Turkey Bowl!  We'll be doing a new Java game invovling turkeys and American football."
