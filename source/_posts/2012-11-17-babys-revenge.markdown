@@ -4,6 +4,7 @@ title: "Episode 4 - Baby's Revenge"
 date: 2012-11-17 10:00
 comments: true
 categories: [archive, java, video]
+screenshot: 2012/11/17/babys-revenge.png
 ---
 
 <iframe width="853" height="480" src="http://www.youtube.com/embed/K_qssVT8TR4?vq=hd720" frameborder="0" allowfullscreen></iframe>

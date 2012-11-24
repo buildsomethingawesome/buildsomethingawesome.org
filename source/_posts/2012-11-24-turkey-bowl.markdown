@@ -4,6 +4,7 @@ title: "Episode 5 - Turkey Bowl"
 date: 2012-11-24 10:00
 comments: true
 categories: [archive, java, video]
+screenshot: 2012/11/24/turkey-bowl.png
 ---
 
 <iframe width="853" height="480" src="http://www.youtube.com/embed/NTpAjlpKd5U?vq=hd720" frameborder="0" allowfullscreen></iframe>
