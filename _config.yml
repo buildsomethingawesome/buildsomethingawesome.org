@@ -115,4 +115,4 @@ header_images:
 
 next_broadcast:
   when: "Sat, Nov 24th, 10am PST / 1pm EST / 6pm UTC"
-  slug: "This week we'll be doing more with graphics and animation and learning how to better organize code to make writing games even easier."
+  slug: "Turkey Bowl!  We'll be doing a new Java game invovling turkeys and American football."
