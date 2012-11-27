@@ -1,6 +1,6 @@
 next_broadcast:
-  when: "Sat, Dec 16th, 10am PST / 1pm EST / 6pm UTC"
-  slug: "I'm hoping to do an Android phone programming project for the next episode.  Please send your game ideas and requests to <a href='mailto:aaron@buildsomethingawesome.org'>aaron@buildsomethingawesome.org</a>.  See you then!"
+  when: "Sat, Dec 15th, 10am PST / 1pm EST / 6pm UTC"
+  slug: "In celebration of <a href='http://www.csedweek.org/'>Computer Science Education Week</a>, I'll be covering new ground and doing a special episode on <b>Android smartphones</b>.  We'll be writing a game that will run on any Android phone.  (If you don't have an Android phone, don't worry, I'll be showing how to install an Android emulator on your computer so you can follow along.)  Please send your game ideas and requests to <a href='mailto:aaron@buildsomethingawesome.org'>aaron@buildsomethingawesome.org</a>.  See you then!"
 
 # ----------------------- #
 #      Main Configs       #
