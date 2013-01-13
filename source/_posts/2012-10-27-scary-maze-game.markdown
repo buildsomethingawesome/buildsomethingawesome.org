@@ -3,7 +3,7 @@ layout: post
 title: "Episode 2 - Scary Maze Game"
 date: 2012-10-27 10:00
 comments: true
-categories: [archive, java, video]
+categories: [archive, java, video, swing]
 ---
 
 <iframe width="853" height="480" src="http://www.youtube.com/embed/kCgnqCs1gMg?vq=hd720" frameborder="0" allowfullscreen></iframe>

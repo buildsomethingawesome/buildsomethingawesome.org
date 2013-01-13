@@ -3,7 +3,7 @@ layout: post
 title: "Episode 5 - Turkey Bowl"
 date: 2012-11-24 10:00
 comments: true
-categories: [archive, java, video]
+categories: [archive, java, video, swing]
 screenshot: 2012/11/24/turkey-bowl.png
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 1 - Java graphics and animation"
 date: 2012-10-20 10:00
 comments: true
-categories: [archive, java, video]
+categories: [archive, java, video, swing]
 ---
 
 <iframe width="853" height="480" src="http://www.youtube.com/embed/kLAgmnZzeXc?vq=hd720" frameborder="0" allowfullscreen></iframe>
