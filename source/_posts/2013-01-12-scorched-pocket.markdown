@@ -12,9 +12,7 @@ screenshot: 2013/01/12/scorched-pocket.png
 
 This month we’ll be doing an Android smartphone project. We’ll be writing a game that will run on any Android phone. (If you don’t have an Android phone, don’t worry, I’ll be showing how to install an Android emulator on your computer so you can follow along.)
 
-{% comment %}
-<a href="https://github.com/buildsomethingawesome/121110-bouncing-babies/commits/master">See the code step-by-step</a>
-{% endcomment %}
+<a href="https://github.com/buildsomethingawesome/130112-scorched-pocket/commits/master">See the code step-by-step</a>
 
 Links from the chat room:
 
