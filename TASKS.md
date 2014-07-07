@@ -1,4 +1,3 @@
- - Update main page to have getting started for Java / Android
  - Hide livestream page
  - Make main achive page list tags to go to subpages
  - Hide blog link

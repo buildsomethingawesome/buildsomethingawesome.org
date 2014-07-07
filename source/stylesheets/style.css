@@ -46,7 +46,7 @@ a:hover {
 	text-decoration: none;
 }
 
-a[href^="http://"] {
+/*a[href^="http://"] {
   background: url(../images/extlink.gif) center left no-repeat;
   padding-left: 16px;
 }
@@ -55,7 +55,7 @@ a[href^="{{ site.url }}"] {
   background: none;
   padding-left: 0;
 }
-
+*/
 img {
 	border: none;
 }

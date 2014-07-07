@@ -4,11 +4,11 @@ title: Build Something Awesome
 header_image: blackboard
 ---
 
-h2. Next Livestream--{{ site.next_broadcast.when}}
-
-{{ site.next_broadcast.slug }}
-
-You can <a href="{{ root_url }}/livestream.html">tune in here</a>, or on <a href="http://www.justin.tv/avh4">justin.tv</a>.  And if you'd like a reminder, you can <a href="http://eepurl.com/qngd5">sign up to be notified when the livestream is about to start</a>.
+<div class="jumbotron">
+  <h1>Get Started</h1>
+  <p>Welcome to the site!  The best place to start is with the video archives for season 1.  If you follow along, you'll quickly pick up some programming basics and be able to write your own games in Java.</p>
+  <p><a href="{{ root_url }}/archives/s1.html" class="btn btn-primary">Watch Season 1</a></p>
+</div>
 
 h2. Everyone can be a programmer
 
@@ -19,7 +19,7 @@ But what about writing a computer program?  **Build Something Awesome** is built
 Admittedly, computer programming today still involves a bit of arcane knowledge, but smoothing over the confusing parts is what Build Something Awesome is all about.  All of the projects on this website are designed to be able to be completed in less than two hours.  So welcome, and I'm looking forward to seeing what you create!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Aaron V.  
 {% comment %}
-<!-- (<a href="{{ site.url }}/bio.html">read more about me</a>) -->
+<!-- (<a href="{{ root_url }}/bio.html">read more about me</a>) -->
 {% endcomment %}
 
 

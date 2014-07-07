@@ -3,7 +3,7 @@ layout: post
 title: "Episode 4 - Baby's Revenge"
 date: 2012-11-17 10:00
 comments: true
-categories: [archive, java, video, swing]
+categories: [archive, java, video, swing, s1]
 screenshot: 2012/11/17/babys-revenge.png
 ---
 

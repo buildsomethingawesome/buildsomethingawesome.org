@@ -3,7 +3,7 @@ layout: post
 title: "Episode 6 - Scorched Pocket (Android)"
 date: 2013-01-12 10:00
 comments: true
-categories: [archive, java, video, android]
+categories: [archive, java, video, android, s1]
 screenshot: 2013/01/12/scorched-pocket.png
 ---
 

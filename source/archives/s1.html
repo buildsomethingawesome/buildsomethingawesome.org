@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Video Archives :: Season 1"
+footer: false
+---
+
+<div id="blog-archives">
+{% for post in site.posts reverse %}
+{% if post.categories contains "s1" %}
+<article>
+  {% assign index = true %}
+  {% assign content = post.content %}
+  {% include article.html %}
+</article>
+{% endif %}
+{% endfor %}
+</div>
