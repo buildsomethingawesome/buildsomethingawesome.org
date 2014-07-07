@@ -3,28 +3,31 @@
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
   {% include custom/facebook_js.html %}
   
-  <div id="header">
-    <div id="logo">
-      <h1 class="title" style="padding-left: 100px"><span><a href="{{ root_url }}/">Build Something Awesome</a></span></h1>
-      <h2 class="subtitle" style="position: absolute; left: 132px; top: 8px">Computer Programming made simple (and fun!)</h2>
-      <img src="{{ root_url }}/images/logo.png" style="position: absolute; top: 20px; left: 20px">
+  <div class="container">
+    <div id="header">
+      <div id="logo">
+        <h1 class="title" style="padding-left: 100px"><span><a href="{{ root_url }}/">Build Something Awesome</a></span></h1>
+        <h2 class="subtitle" style="position: absolute; left: 132px; top: 8px">Computer Programming made simple (and fun!)</h2>
+        <img src="{{ root_url }}/images/logo.png" style="position: absolute; top: 20px; left: 20px">
+      </div>
+      <div class="fb-like header-float" data-href="https://www.facebook.com/BuildSomethingAwesome" data-send="true" data-layout="button_count" data-width="300" data-show-faces="true"></div>
+      <div id="topright">&nbsp;</div>
+      <div id="menu">{% include navigation.html %}</div>
     </div>
-    <div class="fb-like header-float" data-href="https://www.facebook.com/BuildSomethingAwesome" data-send="true" data-layout="button_count" data-width="300" data-show-faces="true"></div>
-    <div id="topright">&nbsp;</div>
-    <div id="menu">{% include navigation.html %}</div>
-  </div>
-  {% capture header_image %}{% if page.header_image %}{{ page.header_image }}{% else %}{{ site.default_header_image }}{% endif %}{% endcapture %}
+    {% capture header_image %}{% if page.header_image %}{{ page.header_image }}{% else %}{{ site.default_header_image }}{% endif %}{% endcapture %}
     <div id="headershadow">
-      <img src="{{ root_url }}/images/headers/{{ site.header_images[header_image].file }}" alt="" width="877" height="150" />
+      <img src="{{ root_url }}/images/headers/{{ site.header_images[header_image].file }}" alt=""/>
     </div>
-  <div id="content">
-    <div id="maincontent">
-      {{ content | expand_urls: root_url }}
+  
+    <div id="content">
+      <div id="maincontent">
+        {{ content | expand_urls: root_url }}
+      </div>
+      <div style="clear: both;">&nbsp;</div>
     </div>
-    <div style="clear: both;">&nbsp;</div>
-  </div>
-  <div id="footer">
-    {% include footer.html %}
+    <div id="footer">
+      {% include footer.html %}
+    </div>
   </div>
   {% include after_footer.html %}
 </body>
