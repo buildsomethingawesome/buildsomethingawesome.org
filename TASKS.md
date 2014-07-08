@@ -1,4 +1,4 @@
- - Make main achive page list tags to go to subpages
- - Hide blog link
- - Make embedded videos responsive
+ - Make embedded videos load faster
+ - Make embedded videos responsive width
  - Try switching to http://hexo.io/
+ - Make seasons archive page in main nav

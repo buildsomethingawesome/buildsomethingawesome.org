@@ -260,3 +260,19 @@ h1.title span a {
 #footer a {
 	color: #5D5D5D;
 }
+
+
+.btn.giant {
+  width: 100%;
+  height: 100px;
+  line-height: 85px;
+  font-size: 40px;
+}
+
+.btn.java {
+  background-color: #5382A1;
+}
+
+.btn.android {
+  background-color: #A4C639;
+}
