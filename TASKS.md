@@ -1,4 +1,3 @@
- - Hide livestream page
  - Make main achive page list tags to go to subpages
  - Hide blog link
  - Make embedded videos responsive
