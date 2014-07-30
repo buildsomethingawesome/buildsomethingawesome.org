@@ -1,0 +1,34 @@
+---
+layout: page
+title: "Learn Android development"
+footer: false
+---
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Android topics</h3>
+  </div>
+  <div class="panel-body">
+    <p class="text-center">
+      <span class="learning-topic">Setup           </span>
+      <span class="learning-topic"><a href="{{ root_url }}/topics/android/graphics">Drawing graphics</a></span>
+      <span class="learning-topic"><a href="{{ root_url }}/topics/android/touch-events">Touch events</a></span>
+      <span class="learning-topic">Activities      </span>
+      <span class="learning-topic">Services        </span>
+      <span class="learning-topic">Notifications   </span>
+      <span class="learning-topic">Widgets         </span>
+    </p>
+  </div>
+</div>
+
+<div id="blog-archives">
+{% for post in site.posts reversed %}
+{% if post.categories contains "android" %}
+<article>
+  {% assign index = true %}
+  {% assign content = post.content %}
+  {% include article.html %}
+</article>
+{% endif %}
+{% endfor %}
+</div>

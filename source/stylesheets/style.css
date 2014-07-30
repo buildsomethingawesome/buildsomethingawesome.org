@@ -301,3 +301,10 @@ h1.title span a {
   width: 100%;
   height: 100%;
 }
+
+/* */
+
+.learning-topic {
+  margin-left: 20px;
+  margin-right: 20px;
+}

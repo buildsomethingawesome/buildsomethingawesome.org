@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Android :: Touch Events"
+footer: false
+---
+
+<div id="blog-archives">
+{% for post in site.posts reversed %}
+{% if post.categories contains "android-touch-events" %}
+<article>
+  {% assign index = true %}
+  {% assign content = post.content %}
+  {% include article.html %}
+</article>
+{% endif %}
+{% endfor %}
+</div>
