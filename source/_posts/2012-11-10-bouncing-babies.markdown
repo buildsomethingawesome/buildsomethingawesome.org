@@ -6,7 +6,11 @@ comments: true
 categories: [archive, java, video, swing, s1]
 ---
 
-<div class="youtube" id="JGf4gh_YvPE" style="width: 853px; height: 480px;"></div>
+<div class="vidwrap1">
+  <div class="vidwrap2">
+    <div class="youtube" id="JGf4gh_YvPE"></div>
+  </div>
+</div>
 
 This week we'll be remaking the classic DOS game "Bouncing Babies", in which firemen desperately attempt to rescue babies that are being thrown from a burning building. We'll be using familiar patterns from previous episodes, and doing more complicated animations and game mechanics.
 

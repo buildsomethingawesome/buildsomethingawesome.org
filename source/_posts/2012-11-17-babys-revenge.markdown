@@ -7,7 +7,11 @@ categories: [archive, java, video, swing, s1]
 screenshot: 2012/11/17/babys-revenge.png
 ---
 
-<div class="youtube" id="K_qssVT8TR4" style="width: 853px; height: 480px;"></div>
+<div class="vidwrap1">
+  <div class="vidwrap2">
+    <div class="youtube" id="K_qssVT8TR4"></div>
+  </div>
+</div>
 
 This week we'll be doing more with graphics and animation and learning how to better organize code to make writing games even easier.
 

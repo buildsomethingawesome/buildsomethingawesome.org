@@ -6,7 +6,11 @@ comments: true
 categories: [archive, java, video, swing, s1]
 ---
 
-<div class="youtube" id="kCgnqCs1gMg" style="width: 853px; height: 480px;"></div>
+<div class="vidwrap1">
+  <div class="vidwrap2">
+    <div class="youtube" id="kCgnqCs1gMg"></div>
+  </div>
+</div>
 
 This week we'll be doing another Java project, this time making a game to scare your friends and family with for Halloween! I'll also be sure to quickly cover the installation of IntelliJ for those who had trouble last week, and I've worked out the kinks with the chat room sign up, so feel welcome to chime in during the cast.
 
