@@ -7,7 +7,7 @@ categories: [archive, java, video, swing, s1]
 screenshot: 2012/11/24/turkey-bowl.png
 ---
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/NTpAjlpKd5U?vq=hd720" frameborder="0" allowfullscreen></iframe>
+<div class="youtube" id="NTpAjlpKd5U" style="width: 853px; height: 480px;"></div>
 
 Happy Thanksgiving!  We'll be doing a new Java game involving turkeys and American football.
 

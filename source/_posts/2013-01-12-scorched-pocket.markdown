@@ -7,8 +7,7 @@ categories: [archive, java, video, android, s1]
 screenshot: 2013/01/12/scorched-pocket.png
 ---
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/s58vpI9m_vk?vq=hd720" frameborder="0" allowfullscreen></iframe>
-
+<div class="youtube" id="s58vpI9m_vk" style="width: 853px; height: 480px;"></div>
 
 This month we’ll be doing an Android smartphone project. We’ll be writing a game that will run on any Android phone. (If you don’t have an Android phone, don’t worry, I’ll be showing how to install an Android emulator on your computer so you can follow along.)
 

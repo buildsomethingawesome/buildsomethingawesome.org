@@ -7,7 +7,7 @@ categories: [archive, java, video, swing, s1]
 screenshot: 2012/11/17/babys-revenge.png
 ---
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/K_qssVT8TR4?vq=hd720" frameborder="0" allowfullscreen></iframe>
+<div class="youtube" id="K_qssVT8TR4" style="width: 853px; height: 480px;"></div>
 
 This week we'll be doing more with graphics and animation and learning how to better organize code to make writing games even easier.
 

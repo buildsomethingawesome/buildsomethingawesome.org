@@ -6,7 +6,7 @@ comments: true
 categories: [archive, java, video, swing, s1]
 ---
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/kLAgmnZzeXc?vq=hd720" frameborder="0" allowfullscreen></iframe>
+<div class="youtube" id="kLAgmnZzeXc" style="width: 853px; height: 480px;"></div>
 
 We’ll be writing a pong game to demonstrate basic Java programming with graphics and animation. By the end you’ll know enough to be able to start playing around with simple game programming on your own.
 
