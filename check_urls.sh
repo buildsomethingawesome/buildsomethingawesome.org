@@ -3,6 +3,7 @@
 ROOT="${1:-http://localhost:4000}"
 
 function check {
+  echo "  $ROOT/$1"
   curl -s -f -I "$ROOT/$1" > /dev/null || exit 1
 }
 
