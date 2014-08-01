@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "votes": {
+      "$topic": {
+        "count": {
+          ".read": true,
+          ".write": "!data.parent().child('users/' + auth.uid).exists()"
+        },
+        "users": {
+          "$user": {
+            ".write": "$user === auth.uid",
+            ".validate": "newData.val() == true"
+          }
+        }
+      }
+    }
+  }
+}
