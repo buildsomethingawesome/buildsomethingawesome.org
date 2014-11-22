@@ -1,0 +1,16 @@
+{
+  "name": "buildsomethingawesome.org",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buildsomethingawesome/buildsomethingawesome.org.git"
+  },
+  "author": "Aaron VonderHaar <gruen0aermel@gmail.com>",
+  "devDependencies": {
+    "handlebars": "^2.0.0",
+    "metalsmith": "^1.0.1",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.6.0"
+  }
+}

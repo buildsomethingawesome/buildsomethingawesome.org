@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "description": "Computer Programming made simple (and fun!)",
+        "title": "Build Something Awesome"
+    },
+    "plugins": {
+        "metalsmith-markdown": {},
+        "metalsmith-templates": {
+            "engine": "handlebars"
+        }
+    }
+}
