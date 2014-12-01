@@ -2,6 +2,13 @@
 template: default.html
 ---
 
+<div style="background: #FF2D72;padding: 20px;margin: -20px;margin-bottom: 30px; color: #ddd">
+  <h1 style="color: #0953B5">Hour of Code, Dec 8th-14th</h1>
+  <p>Join the largest learning event in history!  <strong>Build Something Awesome</strong> is supporting <a href="http://hourofcode.com/" style="color: #0953B5">the Hour of Code</a> with brand-new videos.  Learn to make an iOS app, and Android app, or a Processing.js sketch.</p>
+  
+  <iframe width="560" height="315" src="//www.youtube.com/embed/LjSxRdzwICk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 # Get Started
 
 Welcome to the site!  The best place to start is with the video archives for season 1.  If you follow along, you'll quickly pick up some programming basics and be able to write your own games in Java.
